@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sithira Roneth.. A passionate and curious software engineering student on a journey to explore the vast realms of code and technology. I am fascinated by the art and science of crafting elegant solutions to real-world problems.</h1>
+<h1 align="center">Hi 👋, I'm Sithira Roneth..
+  A passionate and curious software engineering student on a journey to explore the vast realms of code and technology. I am fascinated by the art and science of crafting elegant solutions to real-world problems.</h1>
 <img algin="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sithiraroneth" alt="sithiraroneth" /></a> </p>
