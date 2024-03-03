@@ -2,7 +2,7 @@
 
 <div align="center">
 <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=387ADF&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+Sithira+Roneth+;Welcome+to+My+Profile!"
+    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=387ADF&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+SITHIRA+RONETH+;Welcome+to+My+Profile!"
 </div>
 <hr>
 
