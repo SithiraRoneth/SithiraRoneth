@@ -21,6 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/sithira_roneth/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="sithiraroneth" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/sithira-roneth-470aa4242/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="sithiraroneth" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,5 +32,5 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2023 Sithira Roneth
+  &copy; 2024 Sithira Roneth
 </div>
