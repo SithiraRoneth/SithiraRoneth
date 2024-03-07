@@ -8,7 +8,7 @@
 
  <h3 align="center">Future Software Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/10951018/file/original-d53f68cdc20daa2a2f31037fed7375e2.gif">
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/0/1656679844338?e=1715212800&v=beta&t=WVCmBibVWstnYxvj48iLQueTYU5E20zjb7SLnGzvZN0">
 
 - 🌱 I’m currently learning *GDSE - Graduate Diploma In Software Engineering*
 
