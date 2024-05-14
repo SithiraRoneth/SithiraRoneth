@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning *GDSE - Graduate Diploma In Software Engineering*
 
- 💬 Ask me about *java,oop,sql,html*
+ 💬 Ask me about *java,sql,html,css,js*
 
  📫 How to reach me *sithiraroneth@gmail.com*
 
