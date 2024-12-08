@@ -1,35 +1,69 @@
-![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+<p align = center ><!-- Optional banner goes here--> </p>
 
-<div align="center">
-<br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Anton&color=387ADF&size=50&center=true&vCenter=true&height=60&width=618&lines=HI,+I'M+SITHIRA+RONETH+;WELCOME+TO+MY+PROFILE!"
-</div>
-<hr>
+<div>
 
- <h3 align="center">Future Software Engineer</h3>
+<img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
 
-🌱 I’m currently learning *GDSE - Graduate Diploma In Software Engineering*
+<h2> About me </h2>
 
- 💬 Ask me about *java,sql,html,css,js*
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Deep+Learning+Developer;ML%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&width=500&height=50"></a>
 
- 📫 How to reach me *sithiraroneth@gmail.com*
-
- ⚡ Fun fact *I am funny*
-<br>
-<br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.instagram.com/sithira_roneth/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="sithiraroneth" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/sithira-roneth-470aa4242/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="sithiraroneth" height="40" width="40" /></a>
-</p>
-
-<h3 align="center"> ⚡Languages and Tools:</h3>
-<p align="center"> <a href=https://www.figma.com/files/user/1273942702638735278?fuid=1273942702638735278 target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SithiraRoneth&show_icons=true&locale=en" alt="sithiraroneth" /></p>
+- 🤓 Seeking to become a **full-stack developer**
+- 🎓 I'm also pursuing a bachelors degree in **computer science**
 
 
-<div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2024 Sithira Roneth
-</div>
+```js
+
+class Bio extends SoftwareEngineer {
+  name     = 'Sithira Roneth';
+  title    = 'Undergraduate Software Engineer';
+  location = 'Sri lanka';
+}
+
+class Skills extends  SoftwareEngineer  {
+  languages  = ['JavaScript', 'Java', 'Python', 'Html', 'Css', ''];
+  databases  = ['MySQL', 'MongoDB'];
+  frameworks = ['React', 'React Native', 'Express Js', 'Spring'];
+}
+```
+
+<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills  </h2>
+  
+- <h3> programming & markup languages </h3>
+  
+  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
+  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
+  <img src = "https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt = "sass" />
+  <img src = "https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
+  <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt = "python" />
+  
+  - <h4> currently learning </h4>
+    <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js"/>
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+    
+  
+- <h3>  frameworks & libraries </h3>
+  <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react" />
+  <img src = "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt = "bootstrap5" />
+  <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt = "tailwind" />
+  
+- <h3> tools </h3>
+    <img src = "https://img.shields.io/badge/figma-7434a4?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
+    <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt = "git" />
+  <img src = "https://img.shields.io/badge/adobe%20photoshop-001E36.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=" alt = "photoshop" />
+  <img src = "https://img.shields.io/badge/adobe%20illustrator-3c240c.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=f8a829" alt = "illustrator" />
+  
+  - <h4> currently learning </h4>
+  
+    <img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb" />
+
+
+<!---
+
+--->
+
+---
+
+[SithiraRoneth]
+Last Edited on: 09/12/2024 
