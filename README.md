@@ -2,7 +2,7 @@
 
 <h2> About me </h2>
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Deep+Learning+Developer;ML%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Deep+Learning+Developer;ML%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things;Aviation+Enthusiast&width=500&height=50"></a>
 
 - 🤓 Seeking to become a **full-stack developer**
 - 🎓 I'm also pursuing a bachelors degree in **computer science**
