@@ -55,11 +55,10 @@ class Skills extends  SoftwareEngineer  {
     <img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb" />
 
 
-<!---
+<h2>Contact me</h2>
+  <a href="https://www.linkedin.com/in/sithira-roneth-470aa4242/"><img alt="Linkedin" title="Sithira Roneth Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img alt="Instagram" title="Sithira Roneth Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
---->
-
----
-
+#
 [SithiraRoneth]
 Last Edited on: 09/12/2024 
