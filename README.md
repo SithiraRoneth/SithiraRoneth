@@ -17,7 +17,7 @@ class Bio extends SoftwareEngineer {
 }
 
 class Skills extends  SoftwareEngineer  {
-  languages  = ['JavaScript', 'Java', 'Python', 'Html', 'Css', ''];
+  languages  = ['JavaScript', 'Java', 'Python', 'Html/Css', 'TypeScript'];
   databases  = ['MySQL', 'MongoDB'];
   frameworks = ['React', 'React Native', 'Express Js', 'Spring'];
 }
